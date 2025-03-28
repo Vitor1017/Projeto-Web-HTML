@@ -156,20 +156,21 @@
             </section>
             <section>
                 <h2>Nós dê o seu Feedback </h2>
-                <form>
+              <form action="https://formsubmit.co/vitor.alves.miranda@hotmail.com" method="POST">
                     <fieldset>
                         <legend>Informações de contato</legend>
-                    <label for="name">Nome:</label>
-                    <input type="text" id="name" name="name">
-
-                    <label for="Email">Email:</label>
-                    <input type="email" id="Email" name="Email"><br>
-
-                    <label for="Comentarios ">Comentarios:</label><br>
-                    <textarea id="Comentarios" name="Comentarios" rows="4" cols="50" 
-                    placeholder="Digite seus Comentarios aqui"></textarea><br>
-                    <button>Envie o Feedback</button>
-                    </fieldset> 
+                
+                        <label for="name">Nome:</label>
+                        <input type="text" id="name" name="name" required>
+                
+                        <label for="email">Email:</label>
+                        <input type="email" id="email" name="email" required><br>
+                
+                        <label for="comentarios">Comentários:</label><br>
+                        <textarea id="comentarios" name="comentarios" rows="4" cols="50" placeholder="Digite seus comentários aqui" required></textarea><br>
+                
+                        <button type="submit">Enviar Feedback</button>
+                    </fieldset>
                 </form>
             </section>
         </main>
