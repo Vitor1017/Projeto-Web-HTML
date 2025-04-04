@@ -5,7 +5,7 @@
 Um quiz interativo desenvolvido em HTML e CSS para testar conhecimentos em programação. O projeto inclui diferentes tipos de perguntas, como múltipla escolha, campos de texto, upload de arquivos e seleção de datas.
 
 🎯 Objetivo
-Avaliar conhecimentos básicos em desenvolvimento web (HTML, CSS, JavaScript).
+Avaliar conhecimentos básicos em desenvolvimento web (HTML, CSS).
 
 Demonstrar o uso de formulários HTML com diferentes tipos de inputs.
 
