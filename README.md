@@ -25,6 +25,10 @@ GitHub Pages (Hospedagem estática)
 ✔️ Formulário de feedback (integração com FormSubmit)
 ✔️ Design responsivo e acessível
 
+📸 Preview do Site 
+![Captura de Tela (85)](https://github.com/user-attachments/assets/7027ea38-bef2-4e31-b275-662ff543dc9c)
+
+
 📌 Notas Adicionais
 O formulário de feedback usa o serviço FormSubmit para enviar dados por e-mail.
 
