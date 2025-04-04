@@ -26,7 +26,8 @@ GitHub Pages (Hospedagem estática)
 ✔️ Design responsivo e acessível
 
 📸 Preview do Site 
-![Captura de Tela (85)](https://github.com/user-attachments/assets/7027ea38-bef2-4e31-b275-662ff543dc9c)
+
+![Captura de Tela (86)](https://github.com/user-attachments/assets/0c1533ec-45c5-4a5c-a063-278b6582c890)
 
 
 📌 Notas Adicionais
